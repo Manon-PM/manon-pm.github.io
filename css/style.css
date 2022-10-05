@@ -1,0 +1,14 @@
+html {
+    display: flex;
+    justify-content: center;
+    font-family: 'Adamina', serif;
+    font-size: 16px;
+    padding: 3vw;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex: 2 1 50%;
+    gap: 10px;
+}
